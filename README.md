@@ -11,6 +11,4 @@
 - I'm always working on a project or four and if not I'm probably dead
 
 ## Enjoy this gif
-![Alt Text][LSV]
-
-[LSV]: tenor.gif "Live Slug Reaction"
+![Alt Text](tenor.gif "Live Slug Reaction")
