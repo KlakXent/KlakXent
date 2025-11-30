@@ -7,7 +7,7 @@
   - C#
   - Python
   - SQL
-  - html
+  - Html
   - Git
 - I'm always working on a project or four and if not I'm probably dead
 
