@@ -10,5 +10,8 @@
 - - html
 - I'm always working on a project or four and if not I'm probably dead
 
+## Contacts:
+Don't contact me ![Alt Text]("Please")
+
 ## Enjoy this gif
 ![Alt Text](tenor.gif "Live Slug Reaction")
