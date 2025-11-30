@@ -4,10 +4,10 @@
 ## Some facts:
 - I've spent quite a long time working with the Unity game engine
 - I know a few coding languages and other coding related skills like:
-- - C#
-- - Python
-- - SQL
-- - html
+  - C#
+  - Python
+  - SQL
+  - html
   - Git
 - I'm always working on a project or four and if not I'm probably dead
 
