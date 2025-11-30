@@ -11,4 +11,4 @@
 - I'm always working on a project or four and if not I'm probably dead
 
 ## Enjoy this gif
-![Alt Text](https://discord.com/channels/@me/1047888142847459408/1444486462543499378)
+![Alt Text](https://tenor.com/view/slug-live-slug-reaction-reaction-funny-meme-gif-25460913)
