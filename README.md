@@ -1,5 +1,5 @@
 # Hello 🗿
-##I'm KlakXent and I make a whole bunch of projects that surely will see the light of day someday
+## I'm KlakXent and I make a whole bunch of projects that surely will see the light of day someday
 
 ## - I've spent quite a long time working with the Unity game engine
 ## - I know a few coding languages and other coding related things like:
