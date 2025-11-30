@@ -11,7 +11,7 @@
 - I'm always working on a project or four and if not I'm probably dead
 
 ## Contacts:
- ![Link](Don't contact me "Please")
+Don't contact me
 
 ## Enjoy this gif
 ![Alt Text](tenor.gif "Live Slug Reaction")
