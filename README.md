@@ -14,4 +14,4 @@
  ![Alt Text](Don't contact me "Please")
 
 ## Enjoy this gif
-![Alt Text](tenor.gif "Live Slug Reaction")
+![Link](tenor.gif "Live Slug Reaction")
