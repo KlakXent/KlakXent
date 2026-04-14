@@ -1,6 +1,6 @@
 # Hello 🗿
 ## I'm KlakXent and I make a whole bunch of projects that surely will see the light of day someday
-My itch page for stuff that made it through production: ![Itch Profile](https://klakxent.itch.io/)
+My itch page for stuff that made it through production: https://klakxent.itch.io/
 
 ## Some facts:
 - I've spent quite a long time working with the Unity game engine
